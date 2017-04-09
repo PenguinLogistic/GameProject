@@ -1,6 +1,0 @@
-
--Make an attack function/system
--Improve on the dashing
--Model
--Animation
--Enemies/AI
